@@ -8,6 +8,7 @@ body {
     color: #333;
     font-size: 20px; 
 }
+
 * {
     scrollbar-width: thin;
     scrollbar-color: #26123d #371B58;
@@ -24,8 +25,6 @@ body {
 *::-webkit-scrollbar-thumb {
     background-color: #26123d;
 }
-  
-  
 
 #button {
     margin-left: 20px;
@@ -125,32 +124,6 @@ body {
     height: 50px;
 }
 
-#copyImg {
-    display: flex;
-    margin-left: 606px;
-    margin-top: 55px;
-    position: absolute;
-    height: 48px;
-    background: none;
-    border-radius: 30%;
-    -webkit-transition: ease-out 0.4s;
-    -moz-transition: ease-out 0.4s;
-    transition: ease-out 0.4s;
-}
-
-#copyImg:hover {
-    cursor: pointer;
-    box-shadow: 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
-    transform: scale(1.05); 
-}
-
-#goUp {
-    margin-top: 30px;
-    margin-left: 300px;
-    height: 20px;
-    position: relative;
-}
-
 #checkThem {
     display: flex;
     position: absolute;
@@ -227,16 +200,6 @@ body {
 .resultBox textarea::placeholder {
     color: rgb(157, 157, 157);
     transform: scale(1.02); 
-}
-
-.write-camps1 {
-    display: grid;
-    margin-left: 30px;
-    grid-template-columns: 300px 300px;
-}
-
-.write-camps1 {
-    text-align: center;
 }
 
 #dropped1 {
