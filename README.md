@@ -22,7 +22,7 @@ Put every name in the "names.json" file, example below:
 
 ## Example
 
-![](https://github.com/secuestrador/Discord-Token-Checker/blob/main/gif.gif)
+![](https://github.com/secuestrador/)
 
 ## Contact
 
