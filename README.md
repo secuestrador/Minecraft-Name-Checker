@@ -1,4 +1,5 @@
 ## Discord Token Checker
+(This tool is still in progress!)
 
 Minecraft Name Checker for checking fastly any list of names!
 
